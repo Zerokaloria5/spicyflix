@@ -4,7 +4,7 @@ const { resolve } = require("path");
 //fill out this module or check .env file
 module.exports = {
   TOKEN: process.env.TOKEN || "",
-  EMBED_COLOR: process.env.EMBED_COLOR || "#ca2c2b",
+  EMBED_COLOR: process.env.EMBED_COLOR || "#000000",
   SUPPOER: "",
   MAIN_SUPPORT: "",
   OWNER_ID: process.env.OWNER_ID || "",
